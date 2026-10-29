@@ -19,3 +19,4 @@ I'm a passionate software developer eager to build efficient and impactful appli
 ### 📫 Let's Connect!
 *   **LinkedIn:** [https://www.linkedin.com/in/nivethapriyadharshini-ravikumar/]
 *   **GitHub:** [[github.com/Nivetha-232005](https://github.com/Nivetha-232005)]
+*   **Medium:**  [https://medium.com/@nivethapriyadharshini2005]
