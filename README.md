@@ -1,16 +1,21 @@
-## Hi there 👋
+### I'm Nivetha 👩‍💻
+I'm a passionate software developer eager to build efficient and impactful applications.
 
-<!--
-**Nivetha-232005/Nivetha-232005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Skills & Technologies
 
-Here are some ideas to get you started:
+*   **Java Ecosystem:** Core Java, Collections Framework, JUnit Testing, Java Documentation (Javadoc)
+*   **Database:** SQL
+*   **Version Control:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### What I’m Working On 🚀
+*   Currently focusing on mastering Java and building dynamic database-driven applications.
+*   Improving my problem-solving skills and exploring backend technologies.
+
+---
+
+### 📫 Let's Connect!
+*   **LinkedIn:** [https://www.linkedin.com/in/nivethapriyadharshini-ravikumar/]
+*   **GitHub:** [[github.com/Nivetha-232005](https://github.com/Nivetha-232005)]
